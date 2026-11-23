@@ -100,25 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Challenges must be able to be beaten in 5 clicks or less
+                        Challenges must be possible to beat in 5 clicks or fewer.
                     </p>
                     <p>
-                        The challenge must be verified legitimately
+                        All challenges need to be verified legitimately.
                     </p>
                     <p>
-                        You may only submit your own original gameplay. Levels that are clearly just slightly altered parts ripped from another level will be rejected
+                        Please only submit your own original gameplay—levels that are just slightly edited parts taken from another level won't be accepted.
                     </p>
                     <p>
-                        Other levels that could be placed in the 5ccl can also be submitted. If it is made by another creator not in the server, explicit permission needs to be given and a screenshot should be attached for proof.
+                        You're also welcome to submit other levels that fit the 5CCL! If a level was made by a creator outside the server, just make sure you get their explicit permission first and attach a screenshot as proof.
                     </p>
                     <p>
-                        Any type of hardware abuse used to verify and complete challenges in order to make them easier aren’t allowed. This will be judged case by case but use common sense and do not try to stretch the rules.
+                        Hardware abuse used to make verifying or beating challenges easier isn't allowed. We'll judge things case by case, so please use common sense and avoid trying to stretch the rules.
                     </p>
                     <p>
-                        You may not buffdate any challenge after it has been added to the list, or after it has gotten one victor. Deco updates are allowed, including legacy challenges. Level Rating scores will be updated accordingly once the updated challenge is accepted
+                        Please don't buffdate a challenge once it has been placed on the list or has earned its first victor. Decoration updates are totally fine (even on legacy challenges!), and we'll update the Level Rating score if needed once the update is accepted.
                     </p>
                     <p>
-                        Any gameplay updates to a challenge, regardless of scale, will require a reverification. Gameplay updates are only allowed when a current level on the list has been determined to break one of the guidelines after placement, or if a level has not been placed AND has no victors. Deco updates will not require a reverification unless it is determined that the updated deco affects the difficulty of the challenge to a decent degree.
+                        Any gameplay updates—big or small—will require a reverification. Gameplay changes are only allowed if a placed level ends up breaking a guideline, or if a level hasn't been placed yet AND has no victors. Decoration updates don't need a reverification unless the new deco noticeably changes the level's difficulty.
                     </p>
                 </div>
             </div>
