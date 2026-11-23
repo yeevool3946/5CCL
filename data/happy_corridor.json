@@ -2,13 +2,13 @@
   "id": 152332434,
   "name": "Happy corridor",
   "author": "Th3name",
-  "creators": [
-    "Th3name"
-  ],
+  "creators": ["Th3name"],
   "verifier": "Th3name",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 24.63,
-  "records": []
+  "records": [
+    { "user": "th3name", "percent": 100, "cbf": true }
+  ]
 }

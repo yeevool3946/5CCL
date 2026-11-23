@@ -2,13 +2,17 @@
   "id": 152170223,
   "name": "Five",
   "author": "imunderscore",
-  "creators": [
-    "imunderscore"
-  ],
+  "creators": ["imunderscore"],
   "verifier": "imunderscore",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 23.09,
-  "records": []
+  "records": [
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "BlissBee", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true }
+  ]
 }

@@ -2,13 +2,14 @@
   "id": 152258129,
   "name": "Me when 5ccl",
   "author": "Homeless123",
-  "creators": [
-    "Homeless123"
-  ],
+  "creators": ["Homeless123"],
   "verifier": "Homeless123",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 46.88,
-  "records": []
+  "records": [
+    { "user": "ZenosSins", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true }
+  ]
 }

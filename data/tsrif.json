@@ -2,13 +2,22 @@
   "id": 151777458,
   "name": "Tsrif",
   "author": "86bottles",
-  "creators": [
-    "86bottles"
-  ],
+  "creators": ["86bottles"],
   "verifier": "86bottles",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 10,
-  "records": []
+  "records": [
+    { "user": "86bottles", "percent": 100, "cbf": true },
+    { "user": "Dajvid07", "percent": 100, "cbf": true },
+    { "user": "Yeevool3946", "percent": 100, "cbf": true },
+    { "user": "Greenn3xus", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "FoldedZero", "percent": 100, "cbf": true },
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "BlissBee", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true }
+  ]
 }

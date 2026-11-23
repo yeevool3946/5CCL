@@ -2,13 +2,16 @@
   "id": 150953494,
   "name": "Gravity challenge",
   "author": "imunderscore",
-  "creators": [
-    "imunderscore"
-  ],
+  "creators": ["imunderscore"],
   "verifier": "imunderscore",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 16.74,
-  "records": []
+  "records": [
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true }
+  ]
 }

@@ -2,13 +2,13 @@
   "id": 152693177,
   "name": "5 ig",
   "author": "DPgdX",
-  "creators": [
-    "DPgdX"
-  ],
+  "creators": ["DPgdX"],
   "verifier": "DPgdX",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 19.04,
-  "records": []
+  "records": [
+    { "user": "th3name", "percent": 100, "cbf": true }
+  ]
 }

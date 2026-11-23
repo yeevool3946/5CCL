@@ -2,13 +2,18 @@
   "id": 152182902,
   "name": "5 clik redo",
   "author": "imunderscore",
-  "creators": [
-    "imunderscore"
-  ],
+  "creators": ["imunderscore"],
   "verifier": "imunderscore",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 10.66,
-  "records": []
+  "records": [
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "86bottles", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "BlissBee", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true }
+  ]
 }

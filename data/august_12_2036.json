@@ -2,13 +2,18 @@
   "id": 152051418,
   "name": "August 12 2036",
   "author": "YeeVool3946",
-  "creators": [
-    "YeeVool3946"
-  ],
+  "creators": ["YeeVool3946"],
   "verifier": "YeeVool3946",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 28.01,
-  "records": []
+  "records": [
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "Anticroom", "percent": 100, "cbf": true },
+    { "user": "FoldedZero", "percent": 100, "cbf": true },
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "GoofDude", "percent": 100, "cbf": true },
+    { "user": "th3name", "percent": 100, "cbf": true }
+  ]
 }

@@ -2,13 +2,20 @@
   "id": 152175940,
   "name": "Color",
   "author": "goofdude",
-  "creators": [
-    "goofdude"
-  ],
+  "creators": ["goofdude"],
   "verifier": "goofdude",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 33.98,
-  "records": []
+  "records": [
+    { "user": "Anticroom", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true },
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "the3name", "percent": 100, "cbf": true },
+    { "user": "Starys2", "percent": 100, "cbf": true },
+    { "user": "kBingo", "percent": 100, "cbf": true },
+    { "user": "ZenosSins", "percent": 100, "cbf": true }
+  ]
 }

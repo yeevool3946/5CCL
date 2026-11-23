@@ -2,13 +2,14 @@
   "id": 152440155,
   "name": "Hooray",
   "author": "Goofdude",
-  "creators": [
-    "Goofdude"
-  ],
+  "creators": ["Goofdude"],
   "verifier": "Goofdude",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 20.30,
-  "records": []
+  "records": [
+    { "user": "Goofdud", "percent": 100, "cbf": true },
+    { "user": "th3name", "percent": 100, "cbf": true }
+  ]
 }

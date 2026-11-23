@@ -2,13 +2,14 @@
   "id": 152494462,
   "name": "UltimateOmegaUnnerfedSilentSakupenTartarusBloodbathInfinityZetaXtremeV99FinalMix",
   "author": "YeeVool",
-  "creators": [
-    "YeeVool"
-  ],
+  "creators": ["YeeVool"],
   "verifier": "YeeVool",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 29.87,
-  "records": []
+  "records": [
+    { "user": "Blissbee", "percent": 100, "cbf": true },
+    { "user": "th3name", "percent": 100, "cbf": true }
+  ]
 }

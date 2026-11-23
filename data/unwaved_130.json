@@ -2,13 +2,20 @@
   "id": 152144954,
   "name": "Unwaved 130",
   "author": "Greenn3xus",
-  "creators": [
-    "Greenn3xus"
-  ],
+  "creators": ["Greenn3xus"],
   "verifier": "Greenn3xus",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 12.13,
-  "records": []
+  "records": [
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "Greenn3xus", "percent": 100, "cbf": true },
+    { "user": "YeeVool3946", "percent": 100, "cbf": true },
+    { "user": "Dajvid07", "percent": 100, "cbf": true },
+    { "user": "FoldedZero", "percent": 100, "cbf": true },
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "BlissBee", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true }
+  ]
 }

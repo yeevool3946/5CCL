@@ -2,13 +2,21 @@
   "id": 152066410,
   "name": "Tsrif II",
   "author": "YeeVool3946",
-  "creators": [
-    "YeeVool3946"
-  ],
+  "creators": ["YeeVool3946"],
   "verifier": "YeeVool3946",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 14.71,
-  "records": []
+  "records": [
+    { "user": "yeevool3946", "percent": 100, "cbf": true },
+    { "user": "Dajvid07", "percent": 100, "cbf": true },
+    { "user": "Moen22", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "FoldedZero", "percent": 100, "cbf": true },
+    { "user": "Imunderscore", "percent": 100, "cbf": true },
+    { "user": "BlissBee", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true },
+    { "user": "Th3name", "percent": 100, "cbf": true }
+  ]
 }

@@ -2,13 +2,16 @@
   "id": 132567015,
   "name": "The muncher",
   "author": "ZenosSins",
-  "creators": [
-    "ZenosSins"
-  ],
+  "creators": ["ZenosSins"],
   "verifier": "ZenosSins",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 41.22,
-  "records": []
+  "records": [
+    { "user": "ZenosSins", "percent": 100, "cbf": true },
+    { "user": "tFluffy", "percent": 100, "cbf": true },
+    { "user": "Goofdude", "percent": 100, "cbf": true },
+    { "user": "th3name", "percent": 100, "cbf": true }
+  ]
 }
