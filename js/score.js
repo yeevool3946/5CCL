@@ -1,7 +1,7 @@
 /**
  * Numbers of decimal digits to round to
  */
-const scale = 3;
+const scale = 2;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
@@ -18,13 +18,20 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    // Old formula
-    /*
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
+    const customPoints = [
+        50.00, 46.88, 43.96, 41.22, 38.65,
+        36.24, 33.98, 31.86, 29.87, 28.01,
+        26.27, 24.63, 23.09, 21.65, 20.30,
+        19.04, 17.85, 16.74, 15.69, 14.71,
+        13.80, 12.94, 12.13, 11.37, 10.66,
+        10.00
+    ];
+
+    let baseScore = rank <= customPoints.length
+        ? customPoints[rank - 1]
+        : Math.max(1, round(10 * Math.pow(0.9375, rank - 26)));
+
+    let score = baseScore *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
