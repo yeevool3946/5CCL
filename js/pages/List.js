@@ -100,25 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (CBF and FPS bypass are allowed where specified)
+                        Challenges must be able to be beaten in 5 clicks or less
                     </p>
                     <p>
-                        Levels must be completed in 5 clicks or fewer (or the level's specified click limit)
+                        The challenge must be verified legitimately
                     </p>
                     <p>
-                        Achieved the record on the exact level ID listed on the site — please check the level ID before submitting
+                        You may only submit your own original gameplay. Levels that are clearly just slightly altered parts ripped from another level will be rejected
                     </p>
                     <p>
-                        Have audible clicks/taps in the video. Edited audio only does not count
+                        Other levels that could be placed in the 5ccl can also be submitted. If it is made by another creator not in the server, explicit permission needs to be given and a screenshot should be attached for proof.
                     </p>
                     <p>
-                        Raw footage is required for all Top 11 completions (and any level marked "Requires raw footage")
+                        Any type of hardware abuse used to verify and complete challenges in order to make them easier aren’t allowed. This will be judged case by case but use common sense and do not try to stretch the rules.
                     </p>
                     <p>
-                        The recording must show a previous attempt and entire death animation before the completion (unless completed on the first attempt), as well as hitting the endwall
+                        You may not buffdate any challenge after it has been added to the list, or after it has gotten one victor. Deco updates are allowed, including legacy challenges. Level Rating scores will be updated accordingly once the updated challenge is accepted
                     </p>
                     <p>
-                        Do not use secret routes, bug routes, or easy modes — only unmodified completions qualify
+                        Any gameplay updates to a challenge, regardless of scale, will require a reverification. Gameplay updates are only allowed when a current level on the list has been determined to break one of the guidelines after placement, or if a level has not been placed AND has no victors. Deco updates will not require a reverification unless it is determined that the updated deco affects the difficulty of the challenge to a decent degree.
                     </p>
                 </div>
             </div>
