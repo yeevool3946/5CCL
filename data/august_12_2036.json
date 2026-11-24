@@ -9,11 +9,11 @@
   "password": "Free Copy",
   "points": 28.01,
   "records": [
-    { "user": "tFluffy", "percent": 100, "cbf": true },
-    { "user": "Anticroom", "percent": 100, "cbf": true },
-    { "user": "FoldedZero", "percent": 100, "cbf": true },
-    { "user": "Imunderscore", "percent": 100, "cbf": true },
-    { "user": "GoofDude", "percent": 100, "cbf": true },
-    { "user": "th3name", "percent": 100, "cbf": true }
+    { "user": "tFluffy", "percent": 100 },
+    { "user": "Anticroom", "percent": 100 },
+    { "user": "FoldedZero", "percent": 100 },
+    { "user": "Imunderscore", "percent": 100 },
+    { "user": "GoofDude", "percent": 100 },
+    { "user": "th3name", "percent": 100 }
   ]
 }

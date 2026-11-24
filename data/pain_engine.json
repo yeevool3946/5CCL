@@ -9,8 +9,8 @@
   "password": "Free Copy",
   "points": 36.24,
   "records": [
-    { "user": "tFluffy", "percent": 100, "cbf": true },
-    { "user": "the3dude", "percent": 100, "cbf": true },
-    { "user": "Goofdude", "percent": 100, "cbf": true }
+    { "user": "tFluffy", "percent": 100 },
+    { "user": "the3dude", "percent": 100 },
+    { "user": "Goofdude", "percent": 100 }
   ]
 }

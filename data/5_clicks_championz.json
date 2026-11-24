@@ -9,6 +9,6 @@
   "password": "Free Copy",
   "points": 50,
   "records": [
-    { "user": "Th3name", "percent": 100, "cbf": true }
+    { "user": "Th3name", "percent": 100 }
   ]
 }

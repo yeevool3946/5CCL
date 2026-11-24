@@ -6,12 +6,12 @@
   "verifier": "ZenosSins",
   "verification": "https://www.youtube.com/watch?v=PLACEHOLDER",
   "percentToQualify": 100,
-  "password": "Free Copy",
+  "password": "Free to Copy",
   "points": 41.22,
   "records": [
-    { "user": "ZenosSins", "percent": 100, "cbf": true },
-    { "user": "tFluffy", "percent": 100, "cbf": true },
-    { "user": "Goofdude", "percent": 100, "cbf": true },
-    { "user": "th3name", "percent": 100, "cbf": true }
+    { "user": "ZenosSins", "percent": 100 },
+    { "user": "tFluffy", "percent": 100 },
+    { "user": "Goofdude", "percent": 100 },
+    { "user": "th3name", "percent": 100 }
   ]
 }

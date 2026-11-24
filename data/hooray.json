@@ -9,7 +9,7 @@
   "password": "Free Copy",
   "points": 20.30,
   "records": [
-    { "user": "Goofdud", "percent": 100, "cbf": true },
-    { "user": "th3name", "percent": 100, "cbf": true }
+    { "user": "Goofdud", "percent": 100 },
+    { "user": "th3name", "percent": 100 }
   ]
 }

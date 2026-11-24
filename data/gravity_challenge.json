@@ -9,9 +9,9 @@
   "password": "Free Copy",
   "points": 16.74,
   "records": [
-    { "user": "Imunderscore", "percent": 100, "cbf": true },
-    { "user": "tFluffy", "percent": 100, "cbf": true },
-    { "user": "Th3name", "percent": 100, "cbf": true },
-    { "user": "Goofdude", "percent": 100, "cbf": true }
+    { "user": "Imunderscore", "percent": 100 },
+    { "user": "tFluffy", "percent": 100 },
+    { "user": "Th3name", "percent": 100 },
+    { "user": "Goofdude", "percent": 100 }
   ]
 }

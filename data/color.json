@@ -9,13 +9,13 @@
   "password": "Free Copy",
   "points": 33.98,
   "records": [
-    { "user": "Anticroom", "percent": 100, "cbf": true },
-    { "user": "tFluffy", "percent": 100, "cbf": true },
-    { "user": "Homeless123_", "percent": 100, "cbf": true },
-    { "user": "Imunderscore", "percent": 100, "cbf": true },
-    { "user": "the3name", "percent": 100, "cbf": true },
-    { "user": "Starys2", "percent": 100, "cbf": true },
-    { "user": "kBingo", "percent": 100, "cbf": true },
-    { "user": "ZenosSins", "percent": 100, "cbf": true }
+    { "user": "Anticroom", "percent": 100 },
+    { "user": "tFluffy", "percent": 100 },
+    { "user": "Homeless123_", "percent": 100 },
+    { "user": "Imunderscore", "percent": 100 },
+    { "user": "the3name", "percent": 100 },
+    { "user": "Starys2", "percent": 100 },
+    { "user": "kBingo", "percent": 100 },
+    { "user": "ZenosSins", "percent": 100 }
   ]
 }

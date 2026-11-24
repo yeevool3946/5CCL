@@ -9,7 +9,7 @@
   "password": "Free Copy",
   "points": 26.27,
   "records": [
-    { "user": "BlissBee", "percent": 100, "cbf": true },
-    { "user": "th3name", "percent": 100, "cbf": true }
+    { "user": "BlissBee", "percent": 100 },
+    { "user": "th3name", "percent": 100 }
   ]
 }

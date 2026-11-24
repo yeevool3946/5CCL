@@ -9,14 +9,14 @@
   "password": "Free Copy",
   "points": 14.71,
   "records": [
-    { "user": "yeevool3946", "percent": 100, "cbf": true },
-    { "user": "Dajvid07", "percent": 100, "cbf": true },
-    { "user": "Moen22", "percent": 100, "cbf": true },
-    { "user": "tFluffy", "percent": 100, "cbf": true },
-    { "user": "FoldedZero", "percent": 100, "cbf": true },
-    { "user": "Imunderscore", "percent": 100, "cbf": true },
-    { "user": "BlissBee", "percent": 100, "cbf": true },
-    { "user": "Homeless123_", "percent": 100, "cbf": true },
-    { "user": "Th3name", "percent": 100, "cbf": true }
+    { "user": "yeevool3946", "percent": 100 },
+    { "user": "Dajvid07", "percent": 100 },
+    { "user": "Moen22", "percent": 100 },
+    { "user": "tFluffy", "percent": 100 },
+    { "user": "FoldedZero", "percent": 100 },
+    { "user": "Imunderscore", "percent": 100 },
+    { "user": "BlissBee", "percent": 100 },
+    { "user": "Homeless123_", "percent": 100 },
+    { "user": "Th3name", "percent": 100 }
   ]
 }
