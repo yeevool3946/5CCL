@@ -8,5 +8,7 @@
   "percentToQualify": 100,
   "password": "Free Copy",
   "points": 13.80,
-  "records": []
+  "records": [
+      { "user": "Homeless123_", "percent": 100 },
+  ]
 }
