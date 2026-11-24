@@ -70,9 +70,6 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="'/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'" alt="Mobile">
                             </td>
-                            <td class="hz">
-                                <p>{{ record.cbf ? 'CBF' : record.hz + 'Hz' }}</p>
-                            </td>
                         </tr>
                     </table>
                 </div>
@@ -109,7 +106,7 @@ export default {
                         Please only submit your own original gameplay—levels that are just slightly edited parts taken from another level won't be accepted.
                     </p>
                     <p>
-                        You're also welcome to submit other levels that fit the 5CCL! If a level was made by a creator outside the server, just make sure you get their explicit permission first and attach a screenshot as proof.
+                        You're also welcome to submit other levels that fit the 5CCL! If a level was made by a creator outside the server, just make sure you get their explicit permission first and include proof of permission in the submission.
                     </p>
                     <p>
                         Hardware abuse used to make verifying or beating challenges easier isn't allowed. We'll judge things case by case, so please use common sense and avoid trying to stretch the rules.
