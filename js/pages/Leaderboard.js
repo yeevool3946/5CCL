@@ -11,7 +11,7 @@ export default {
                 user: "th3name",
                 total: 490.93,
                 verified: [
-                    { rank: 1, level: "5 clicks championz", score: 50.00, link: "https://youtube.com" },
+                    { rank: 13, level: "Five", score: 23.09, link: "https://youtube.com" },
                     { rank: 5, level: "Pain engine underrat", score: 38.65, link: "https://youtube.com" },
                     { rank: 12, level: "Happy corridor", score: 24.63, link: "https://youtube.com" }
                 ],
@@ -24,7 +24,7 @@ export default {
                     { rank: 9, level: "Uousstbzxvfm", score: 29.87, link: "https://youtube.com" },
                     { rank: 10, level: "August 12 2036", score: 28.01, link: "https://youtube.com" },
                     { rank: 11, level: "Dikle Sick Assary", score: 26.27, link: "https://youtube.com" },
-                    { rank: 13, level: "Five", score: 23.09, link: "https://youtube.com" },
+                    { rank: 1, level: "5 clicks championz", score: 50.00, link: "https://youtube.com" },
                     { rank: 14, level: "Frost bite", score: 21.65, link: "https://youtube.com" },
                     { rank: 16, level: "5 ig", score: 19.04, link: "https://youtube.com" },
                     { rank: 17, level: "WeeHee Wave", score: 17.85, link: "https://youtube.com" },
